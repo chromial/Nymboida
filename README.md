@@ -1,4 +1,4 @@
 # Nymboida
 Data mining, statistical analysis
 
-Hadoop, solr, kafka
+Hadoop, solr, kafka, zookeeper
